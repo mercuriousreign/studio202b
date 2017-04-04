@@ -1,6 +1,7 @@
 fileFormatVersion: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 guid: 5f7d857d88837f84988a2aab67a97eca
 timeCreated: 1491240003
 licenseType: Free
@@ -42,6 +43,8 @@ ModelImporter:
 =======
 =======
 >>>>>>> 349d9e1304e7bb32c3a82489f93e1bedbe93cb22
+=======
+>>>>>>> fbab36772078dc97b5e5fb52a27590550bd61db6
 guid: 7b829f1d3a9406947b849a9a63b1ee00
 ModelImporter:
   serializedVersion: 19
@@ -109,8 +112,11 @@ ModelImporter:
     4300020: Handle_Bottom
     4300022: Door_Frame
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> a415b282e8a7f82a9afe54f65439df5591c404d9
 =======
+=======
+>>>>>>> fbab36772078dc97b5e5fb52a27590550bd61db6
 =======
 guid: 5f7d857d88837f84988a2aab67a97eca
 timeCreated: 1491240003
@@ -150,8 +156,12 @@ ModelImporter:
     4300006: Handle
     4300008: Handle_Bottom
     4300010: Door_Frame
+<<<<<<< HEAD
 >>>>>>> b1bb20b158e70f6711c21330718c78e5d24cd3e4
 >>>>>>> 349d9e1304e7bb32c3a82489f93e1bedbe93cb22
+=======
+>>>>>>> 25c13a7eca08a946386a27aa26e0bdc7070f1e44
+>>>>>>> fbab36772078dc97b5e5fb52a27590550bd61db6
     7400000: Default Take
     9500000: //RootNode
   materials:
@@ -180,6 +190,7 @@ ModelImporter:
     lODScreenPercentages: []
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     globalScale: 1
 =======
     globalScale: 0
@@ -190,6 +201,12 @@ ModelImporter:
     globalScale: 1
 >>>>>>> b1bb20b158e70f6711c21330718c78e5d24cd3e4
 >>>>>>> 349d9e1304e7bb32c3a82489f93e1bedbe93cb22
+=======
+    globalScale: 0
+=======
+    globalScale: 1
+>>>>>>> 25c13a7eca08a946386a27aa26e0bdc7070f1e44
+>>>>>>> fbab36772078dc97b5e5fb52a27590550bd61db6
     meshCompression: 0
     addColliders: 0
     importBlendShapes: 1
