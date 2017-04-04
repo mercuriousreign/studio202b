@@ -1,11 +1,17 @@
 fileFormatVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
 guid: 28fcd5c84e5328a468142f41eed4127b
 timeCreated: 1491239943
 licenseType: Free
 =======
 guid: e30a2c0d93cae6443a4a64c9af17ef87
 >>>>>>> a415b282e8a7f82a9afe54f65439df5591c404d9
+=======
+guid: affff3c7da25d496382a072cc52ddb44
+timeCreated: 1491332024
+licenseType: Free
+>>>>>>> 8813b427904c131d50cf8b8a4e3466144e73b72d
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
@@ -41,10 +47,14 @@ ModelImporter:
   meshes:
     lODScreenPercentages: []
 <<<<<<< HEAD
+<<<<<<< HEAD
     globalScale: 1
 =======
     globalScale: 0
 >>>>>>> a415b282e8a7f82a9afe54f65439df5591c404d9
+=======
+    globalScale: 1
+>>>>>>> 8813b427904c131d50cf8b8a4e3466144e73b72d
     meshCompression: 0
     addColliders: 0
     importBlendShapes: 1
