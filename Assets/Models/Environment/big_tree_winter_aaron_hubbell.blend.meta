@@ -1,11 +1,20 @@
 fileFormatVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
 guid: ef253c0cd26259847a97ade8681c9b30
 timeCreated: 1491240404
 licenseType: Free
 =======
 guid: 0e713840093a1b449a9ebf85812c7173
 >>>>>>> a415b282e8a7f82a9afe54f65439df5591c404d9
+=======
+guid: 0e713840093a1b449a9ebf85812c7173
+=======
+guid: ef253c0cd26259847a97ade8681c9b30
+timeCreated: 1491240404
+licenseType: Free
+>>>>>>> b1bb20b158e70f6711c21330718c78e5d24cd3e4
+>>>>>>> 349d9e1304e7bb32c3a82489f93e1bedbe93cb22
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
@@ -21,7 +30,10 @@ ModelImporter:
     100018: Cube_MeshPart8
     100020: Cube_MeshPart9
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 349d9e1304e7bb32c3a82489f93e1bedbe93cb22
     100022: Armature
     100024: Bone
     100026: Bone_001
@@ -35,7 +47,10 @@ ModelImporter:
     100042: Bone_009
     100044: Cube
     100046: gold_leaf
+<<<<<<< HEAD
 >>>>>>> a415b282e8a7f82a9afe54f65439df5591c404d9
+=======
+>>>>>>> 349d9e1304e7bb32c3a82489f93e1bedbe93cb22
     400000: //RootNode
     400002: Cube_MeshPart0
     400004: Cube_MeshPart1
@@ -48,7 +63,10 @@ ModelImporter:
     400018: Cube_MeshPart8
     400020: Cube_MeshPart9
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 349d9e1304e7bb32c3a82489f93e1bedbe93cb22
     400022: Armature
     400024: Bone
     400026: Bone_001
@@ -62,7 +80,10 @@ ModelImporter:
     400042: Bone_009
     400044: Cube
     400046: gold_leaf
+<<<<<<< HEAD
 >>>>>>> a415b282e8a7f82a9afe54f65439df5591c404d9
+=======
+>>>>>>> 349d9e1304e7bb32c3a82489f93e1bedbe93cb22
     2300000: Cube_MeshPart0
     2300002: Cube_MeshPart1
     2300004: Cube_MeshPart2
@@ -74,9 +95,13 @@ ModelImporter:
     2300016: Cube_MeshPart8
     2300018: Cube_MeshPart9
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     2300020: gold_leaf
 >>>>>>> a415b282e8a7f82a9afe54f65439df5591c404d9
+=======
+    2300020: gold_leaf
+>>>>>>> 349d9e1304e7bb32c3a82489f93e1bedbe93cb22
     3300000: Cube_MeshPart0
     3300002: Cube_MeshPart1
     3300004: Cube_MeshPart2
@@ -88,9 +113,13 @@ ModelImporter:
     3300016: Cube_MeshPart8
     3300018: Cube_MeshPart9
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     3300020: gold_leaf
 >>>>>>> a415b282e8a7f82a9afe54f65439df5591c404d9
+=======
+    3300020: gold_leaf
+>>>>>>> 349d9e1304e7bb32c3a82489f93e1bedbe93cb22
     4300000: Cube_MeshPart0
     4300002: Cube_MeshPart1
     4300004: Cube_MeshPart2
@@ -102,9 +131,12 @@ ModelImporter:
     4300016: Cube_MeshPart8
     4300018: Cube_MeshPart9
 <<<<<<< HEAD
+<<<<<<< HEAD
     7400000: Default Take
     9500000: //RootNode
 =======
+=======
+>>>>>>> 349d9e1304e7bb32c3a82489f93e1bedbe93cb22
     4300020: gold_leaf
     7400000: Default Take
     7400002: tree_sway
@@ -119,7 +151,10 @@ ModelImporter:
     13700014: Cube_MeshPart7
     13700016: Cube_MeshPart8
     13700018: Cube_MeshPart9
+<<<<<<< HEAD
 >>>>>>> a415b282e8a7f82a9afe54f65439df5591c404d9
+=======
+>>>>>>> 349d9e1304e7bb32c3a82489f93e1bedbe93cb22
   materials:
     importMaterials: 1
     materialName: 0
@@ -145,10 +180,17 @@ ModelImporter:
   meshes:
     lODScreenPercentages: []
 <<<<<<< HEAD
+<<<<<<< HEAD
     globalScale: 1
 =======
     globalScale: 0
 >>>>>>> a415b282e8a7f82a9afe54f65439df5591c404d9
+=======
+    globalScale: 0
+=======
+    globalScale: 1
+>>>>>>> b1bb20b158e70f6711c21330718c78e5d24cd3e4
+>>>>>>> 349d9e1304e7bb32c3a82489f93e1bedbe93cb22
     meshCompression: 0
     addColliders: 0
     importBlendShapes: 1
